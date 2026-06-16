@@ -1,2 +1,2 @@
 # oh-my-medical-ai
-AI model for Medical Application 
+AI studies for Medical Application 
